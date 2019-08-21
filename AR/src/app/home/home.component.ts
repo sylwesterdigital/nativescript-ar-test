@@ -6,7 +6,7 @@ import { Color } from "tns-core-modules/color";
 registerElement("AR", () => require("nativescript-ar").AR);
 
 @Component({
-  selector: "ar",
+  selector: "argh",
   moduleId: module.id,
   template: `
 <ActionBar title="NativeScript AR"></ActionBar>
